@@ -24,16 +24,21 @@ This was very slow for a 60 zone.
 
 
 <b>Pros</b>
-•	I feel it is a really useful app that a lot of people can use
-•	If people are avoiding heavy traffic places, traffic becomes less
-•	I can learn new things on how to build an app
-•	Everyone hates traffic
+<ul>
+ <li>	I feel it is a really useful app that a lot of people can use</li>
+ <li>	If people are avoiding heavy traffic places, traffic becomes less</li>
+ <li>I can learn new things on how to build an app</li>
+ <li>	Everyone hates traffic</li>
+ </ul>
 
 <b>Cons</b>
-•	The routes that the apps show the user may not like
-•	If there is a wave of traffic which was not predicted or just came out of nowhere the app hasn’t served its user
-•	Building an app will be very challenging and may time a lot of time
-•	The app would have to be a concept.
+<ul>
+ <li>The routes that the apps show the user may not like</li>
+<li>If there is a wave of traffic which was not predicted or just came out of nowhere the app hasn’t served its user</li>
+ <li>Building an app will be very challenging and may time a lot of time</li>
+ <li>The app would have to be a concept</li>
+ </ul>
+ 
 
 <b>How might it be built?</b>
 <p>Prototyped in XD and after effects.</p>
@@ -45,10 +50,8 @@ Could be a government-run app to help with reducing unwanted congestion on gover
 A delivery company may want to invest to help there logistic run smoother </p>
 
 
- 
-
-
-
+<br>
+<br>
 
 <h2>Dog Training – Help teach man’s best friend</h2>
 
@@ -63,34 +66,41 @@ There are huge benefits to training your dog. Teaching even basic obedience like
 Training your dog gives them the love and attention they live for. They are very smart animals and can be easily trained with the current information. 
 
 Our program aims at:
-•	Basic commands
-•	Positive rewards
-•	Walking on a lead
-•	Using a clicker
-•	Fetch 
-•	Obedience
+<ul>
+<li>Basic commands</li>
+<li>	Positive rewards</li>
+<li>Walking on a lead</li>
+<li>	Using a clicker</li>
+<li>	Fetch </li>
+<li>	Obedience</li>
+ </ul>
  
 You can also track your dog with their food, exercise and moods.
 
 <b>Pros</b>
-•	Build a relationship and communication with your dog
-•	It would be on a website and I’m confident of creating that
-•	Would need to learn about dog behaviours
+<ul>
+<li>	Build a relationship and communication with your dog</li>
+<li>	It would be on a website and I’m confident of creating that</li>
+<li>	Would need to learn about dog behaviours</li>
+ </ul>
 <b>Cons</b>
-•	Is there a want for it
-•	It would need to be paid and funded
+<ul>
+ <li>	Is there a want for it </li>
+<li>	It would need to be paid and funded </li>
+ </ul>
 <b>How might it be built?</b>
 •	Built using html and css.
 <b>Who’s it for?</b>
-•	Dog owners who want to train and teach obedience to their dog
+Dog owners who want to train and teach obedience to their dog
 
-
+<br>
+<br>
 
 
 <h2>Mental Wellness App – Manage your moods and find out what they mean.</h2>
 
 <b>Overview</b>
-Mental health plays a big part in people’s lives. “Approximately 1 in 4 people in the UK will experience a mental health problem each year [source].” Depression and anxiety are common health problems people face everyday. Some people struggle and some people don’t know they have it. Understanding your moods may help you work out what causes them and how you tend to behave when you are in different moods. 
+<p>Mental health plays a big part in people’s lives. “Approximately 1 in 4 people in the UK will experience a mental health problem each year [source].” Depression and anxiety are common health problems people face everyday. Some people struggle and some people don’t know they have it. Understanding your moods may help you work out what causes them and how you tend to behave when you are in different moods. </p>
 
 Depression, anxiety, stress and overthinking are common and are affecting people in their everyday lives. In work, in school at home you cant escape mental health. People feel uncomfortable expressing their feeling and getting help with fear of being judged. With a handy app on your phone you can track your emotions without the feeling of being judged, even just expressing your feelings and emotion out to an app can improve a person’s mood as they have got what they wanted off there chest. It would work as a counsellor/ tracker. 
 All to help people manage and control their feelings.
@@ -108,16 +118,19 @@ It will focus on self-help by providing the user with information and help teach
 
 
 <b>Pros</b>
-•	This could help people with mental issues manage their life’s better
-•	Adds organisation and mindfulness to a person’s life
-•	I could to illustrations and create related characters to give it a happier tone. Can use illustrator and after effects.
+<ul>
+<li>This could help people with mental issues manage their life’s better</li>
+<li>	Adds organisation and mindfulness to a person’s life</li>
+<li>	I could to illustrations and create related characters to give it a happier tone. Can use illustrator and after effects</li>
+ </ul>
 <b>Cons</b>
-•	I'm not a counsellor, so I need to do a lot of research to complete.
-•	There are a lot of mood trackers so I need something to stand out from the crowd
+<ul>
+<li>I'm not a counsellor, so I need to do a lot of research to complete</li>
+<li>There are a lot of mood trackers so I need something to stand out from the crowd</li>
 
 <b>How might it be built?</b>
-•	I would prototype the app in using Invision and Sketch.
-•	Sell the idea through animated video using After Effects.
+<p>I would prototype the app in using Invision and Sketch</p>
+<p>Sell the idea through animated video using After Effects</p>
 <b>Who’s it for?</b>
 •	Those struggling with examinations stress and with clouded minds.
 •	People who find themselves constantly overthinking.
