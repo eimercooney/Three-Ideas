@@ -87,11 +87,7 @@ You can also track your dog with their food, exercise and moods.
 
 
 
-
-
-
-
-<h2Mental Wellness App – Manage your moods and find out what they mean.</h2>
+<h2>Mental Wellness App – Manage your moods and find out what they mean.</h2>
 
 <b>Overview</b>
 Mental health plays a big part in people’s lives. “Approximately 1 in 4 people in the UK will experience a mental health problem each year [source].” Depression and anxiety are common health problems people face everyday. Some people struggle and some people don’t know they have it. Understanding your moods may help you work out what causes them and how you tend to behave when you are in different moods. 
