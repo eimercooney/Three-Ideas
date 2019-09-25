@@ -2,7 +2,7 @@
 
 <h2>Predictive Traffic – Plan your route safely and efficiently </h2>
 
-Overview
+<b>Overview</b>
 Whether you drive, bus it or taxi it you might hit traffic depending on the road and the time of day. With this helpful app that user is able to plan their route and avoid any unwanted delays. Get up-to-date information about incidents that are currently causing delays and congestion on major roads. Where there are roads there are accidents, broken down vehicles and emergency roadworks which can leave you running late. As much as you hate traffic you are also contributing to the traffic. 
 
 I always get stuck in traffic heading to university which at times makes me late. I have an idea how to now predict the traffic after several journeys, but I often wonder is there an easier way to get to my destination. Depending on the time of day my commute can take either 50mins or 2hours. 
@@ -22,23 +22,23 @@ This was very slow for a 60 zone.
 △ From 8:00am to 9:30am and 4:00pm to 6:00pm this zone has high density traffic: WARNING!
 
 
-Pros 
+<b>Pros </b>
 •	I feel it is a really useful app that a lot of people can use
 •	If people are avoiding heavy traffic places, traffic becomes less
 •	I can learn new things on how to build an app
 •	Everyone hates traffic
 
-Cons 
+<b>Cons </b>
 •	The routes that the apps show the user may not like
 •	If there is a wave of traffic which was not predicted or just came out of nowhere the app hasn’t served its user
 •	Building an app will be very challenging and may time a lot of time
 •	The app would have to be a concept.
 
-<h3>How might it be built?</h3>
+<b>How might it be built?</b>
 Prototyped in XD and after effects.
-<h3>Who’s it for?</h3>
+<b>Who’s it for?<b>
 For people who mostly drive to work or school or activities almost every day looking to find a faster time to go and better routes.
-<h3>What’s the business model?</h3>
+<b>What’s the business model?<b>
 Freemium, free to download and use.
 Could be a government-run app to help with reducing unwanted congestion on government built roads.
 A delivery company may want to invest to help there logistic run smoother 
