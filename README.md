@@ -89,9 +89,10 @@ You can also track your dog with their food, exercise and moods.
 <li>	It would need to be paid and funded </li>
  </ul>
 <b>How might it be built?</b>
-•	Built using html and css.
+<p>	Built using html and css</p>
 <b>Who’s it for?</b>
-Dog owners who want to train and teach obedience to their dog
+<p>Dog owners who want to train and teach obedience to their dog</p>
+
 
 <br>
 <br>
