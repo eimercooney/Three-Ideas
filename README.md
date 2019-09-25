@@ -127,16 +127,17 @@ It will focus on self-help by providing the user with information and help teach
 <ul>
 <li>I'm not a counsellor, so I need to do a lot of research to complete</li>
 <li>There are a lot of mood trackers so I need something to stand out from the crowd</li>
-
+</ul>
 <b>How might it be built?</b>
 <p>I would prototype the app in using Invision and Sketch</p>
 <p>Sell the idea through animated video using After Effects</p>
 <b>Who’s it for?</b>
-•	Those struggling with examinations stress and with clouded minds.
-•	People who find themselves constantly overthinking.
-•	People suffering from mental health disorders
+
+<p>	Those struggling with examinations stress and with clouded minds</p>
+<p>	People who find themselves constantly overthinking</p>
+<p>	People suffering from mental health disorders</p>
 <b>What’s the business model?</b>
-Freemium, free to use but there can be a premium to pay more to unlock more content and interact with real counsellors through text or video call.
+<p>Freemium, free to use but there can be a premium to pay more to unlock more content and interact with real counsellors through text or video call.</p>
 
 
 
