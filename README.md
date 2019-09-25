@@ -1,9 +1,8 @@
 # Three-Ideas
 
-<h1>Predictive Traffic – Plan your route safely and efficiently </h1>
+<h2>Predictive Traffic – Plan your route safely and efficiently </h2>
 
-Overview 
-
+Overview
 Whether you drive, bus it or taxi it you might hit traffic depending on the road and the time of day. With this helpful app that user is able to plan their route and avoid any unwanted delays. Get up-to-date information about incidents that are currently causing delays and congestion on major roads. Where there are roads there are accidents, broken down vehicles and emergency roadworks which can leave you running late. As much as you hate traffic you are also contributing to the traffic. 
 
 I always get stuck in traffic heading to university which at times makes me late. I have an idea how to now predict the traffic after several journeys, but I often wonder is there an easier way to get to my destination. Depending on the time of day my commute can take either 50mins or 2hours. 
@@ -35,11 +34,11 @@ Cons
 •	Building an app will be very challenging and may time a lot of time
 •	The app would have to be a concept.
 
-How might it be built?
+<h3>How might it be built?</h3>
 Prototyped in XD and after effects.
-Who’s it for?
+<h3>Who’s it for?</h3>
 For people who mostly drive to work or school or activities almost every day looking to find a faster time to go and better routes.
-What’s the business model?
+<h3>What’s the business model?</h3>
 Freemium, free to download and use.
 Could be a government-run app to help with reducing unwanted congestion on government built roads.
 A delivery company may want to invest to help there logistic run smoother 
