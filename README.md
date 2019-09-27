@@ -103,7 +103,7 @@ You can also track your dog with their food, exercise and moods.
 <b>Overview</b>
 <p> 60% of 18-34 year old in the UK said they often feel lonely. Loneliness is in our biology and is a purely subjective and individual experience.</p>
 
-<p>Mental health plays a big part in people’s lives. “Approximately 1 in 4 people in the UK will experience a mental health problem each year [source](https://www.mind.org.uk/information-support/types-of-mental-health-problems/statistics-and-facts-about-mental-health/how-common-are-mental-health-problems/#one).” 
+<p>Mental health plays a big part in people’s lives. “Approximately 1 in 4 people in the UK will experience a mental health problem each year -[source](https://bit.ly/2qV21nf).” 
 Depression and anxiety are common health problems people face everyday. Some people struggle and some people don’t know they have it. Understanding your moods may help you work out what causes them and how you tend to behave when you are in different moods. </p>
 
 <p>Depression, anxiety, stress and overthinking are common and are affecting people in their everyday lives. In work, in school at home you cant escape mental health. People feel uncomfortable expressing their feeling and getting help with fear of being judged. With a handy app on your phone you can track your emotions without the feeling of being judged, even just expressing your feelings and emotion out to an app can improve a person’s mood as they have got what they wanted off there chest. It would work as a counsellor, tracker and a bot to motivate people. 
