@@ -98,24 +98,28 @@ You can also track your dog with their food, exercise and moods.
 <br>
 
 
-<h2>Mental Wellness App – Manage your moods and find out what they mean.</h2>
+<h2>Mental Wellness App – Combact loneliness</h2>
 
 <b>Overview</b>
 <p>Mental health plays a big part in people’s lives. “Approximately 1 in 4 people in the UK will experience a mental health problem each year [source].” Depression and anxiety are common health problems people face everyday. Some people struggle and some people don’t know they have it. Understanding your moods may help you work out what causes them and how you tend to behave when you are in different moods. </p>
 
-Depression, anxiety, stress and overthinking are common and are affecting people in their everyday lives. In work, in school at home you cant escape mental health. People feel uncomfortable expressing their feeling and getting help with fear of being judged. With a handy app on your phone you can track your emotions without the feeling of being judged, even just expressing your feelings and emotion out to an app can improve a person’s mood as they have got what they wanted off there chest. It would work as a counsellor/ tracker. 
-All to help people manage and control their feelings.
+Depression, anxiety, stress and overthinking are common and are affecting people in their everyday lives. In work, in school at home you cant escape mental health. People feel uncomfortable expressing their feeling and getting help with fear of being judged. With a handy app on your phone you can track your emotions without the feeling of being judged, even just expressing your feelings and emotion out to an app can improve a person’s mood as they have got what they wanted off there chest. It would work as a counsellor, tracker and a bot to motivate people. 
+This would be to help people manage and control their feelings.
 
 By starting of with simple questions to the user to get an overall mood from them this can determine what to focus on. “How was your overall feeling today?.”
 People can have triggers that bring on stress and anxiety  such as money, jobs, schoolwork and social life. By finding the triggers the person can then learn to manage them. 
 
 You can monitor your sleep, eating habits, exercise and mediation. 
 Mediation can help reduce stress, and anxiety. Exercise helps chronic depression by increasing serotonin. Tracking sleeping and eating habits can lead to a healthier lifestyle. 
-Breathing techniques to help with panic attacks. 
+Breathing techniques to help with panic attacks. The app will be connected to a smart watch when a person is having a panic attack they will be presented with breathing instructions on how to calm and breath at a normal rate. 
 
 Having a community with like-minded people sharing experiences can be a weight of people’s shoulders by expressing themselves or others read and feeling they are not alone. 
 
 It will focus on self-help by providing the user with information and help teach them to develop more helpful ways in thinking.  It will also take into consideration the users environment.
+
+Loneliness hurts us mentally and physically. It is something we all expericence because it is part of our human biolgy. Being social is part of our biology
+
+I would like to create something that would help people. Have an app like a friend that is there when ever you need it. Notifications to motitive someone. A friendly bot that would be able to coach someone to a better mental health. 
 
 
 <b>Pros</b>
@@ -129,6 +133,7 @@ It will focus on self-help by providing the user with information and help teach
 <li>I'm not a counsellor, so I need to do a lot of research to complete</li>
 <li>There are a lot of mood trackers so I need something to stand out from the crowd</li>
 </ul>
+
 <b>How might it be built?</b>
 <p>I would prototype the app in using Invision and Sketch</p>
 <p>Sell the idea through animated video using After Effects</p>
@@ -137,6 +142,7 @@ It will focus on self-help by providing the user with information and help teach
 <p>	Those struggling with examinations stress and with clouded minds</p>
 <p>	People who find themselves constantly overthinking</p>
 <p>	People suffering from mental health disorders</p>
+
 <b>What’s the business model?</b>
 <p>Freemium, free to use but there can be a premium to pay more to unlock more content and interact with real counsellors through text or video call.</p>
 
