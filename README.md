@@ -98,9 +98,11 @@ You can also track your dog with their food, exercise and moods.
 <br>
 
 
-<h2>Mental Wellness App – Combact loneliness</h2>
+<h2>Mental Wellness App – Combat loneliness</h2>
 
 <b>Overview</b>
+<p> 60% of 18-34 year old in the UK said they often feel lonely. Loneliness is in our biology and os a purely subjective and individual experience.</p>
+Loneliness hurts us mentally and physically. It is something we all expericence because it is part of our human biolgy. Being social is part of our biology
 <p>Mental health plays a big part in people’s lives. “Approximately 1 in 4 people in the UK will experience a mental health problem each year [source].” Depression and anxiety are common health problems people face everyday. Some people struggle and some people don’t know they have it. Understanding your moods may help you work out what causes them and how you tend to behave when you are in different moods. </p>
 
 Depression, anxiety, stress and overthinking are common and are affecting people in their everyday lives. In work, in school at home you cant escape mental health. People feel uncomfortable expressing their feeling and getting help with fear of being judged. With a handy app on your phone you can track your emotions without the feeling of being judged, even just expressing your feelings and emotion out to an app can improve a person’s mood as they have got what they wanted off there chest. It would work as a counsellor, tracker and a bot to motivate people. 
@@ -115,11 +117,8 @@ Breathing techniques to help with panic attacks. The app will be connected to a 
 
 Having a community with like-minded people sharing experiences can be a weight of people’s shoulders by expressing themselves or others read and feeling they are not alone. 
 
-It will focus on self-help by providing the user with information and help teach them to develop more helpful ways in thinking.  It will also take into consideration the users environment.
+It will focus on self-help by providing the user with information and help teach them to develop more helpful ways in thinking.  I would like to create something that would help people. Have an app like a friend that is there when ever you need it. Notifications to motitive someone. A friendly bot that would be able to coach someone to a better mental health. Having the app on a smart watch and connected to the health app on their phone the app would be able to make the users life better. The smart watch can track exercise, access breathing techniques and give the user a happy and motivational notification daily to raise happyiness. 
 
-Loneliness hurts us mentally and physically. It is something we all expericence because it is part of our human biolgy. Being social is part of our biology
-
-I would like to create something that would help people. Have an app like a friend that is there when ever you need it. Notifications to motitive someone. A friendly bot that would be able to coach someone to a better mental health. 
 
 
 <b>Pros</b>
